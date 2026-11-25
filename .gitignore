@@ -1,0 +1,9 @@
+.gradle/
+build/
+local.properties
+*.apk
+.idea/
+.kotlin/
+docs/qa/shots/
+__pycache__/
+docs/qa/.work/

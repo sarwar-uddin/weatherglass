@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Picker preview for pre-Android 12 launchers: glass panel with a crimson meteogram and rain bars. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="250dp" android:height="110dp" android:viewportWidth="250" android:viewportHeight="110">
+    <path android:fillColor="#F2131316" android:strokeColor="#33FFFFFF" android:strokeWidth="1"
+        android:pathData="M22,0.5h206a21.5,21.5 0,0 1,21.5 21.5v66a21.5,21.5 0,0 1,-21.5 21.5h-206a21.5,21.5 0,0 1,-21.5 -21.5v-66a21.5,21.5 0,0 1,21.5 -21.5z" />
+    <path android:fillColor="#FFDCDCE6" android:pathData="M28,24a11,11 0,1 0,11 14a8.5,8.5 0,1 1,-11 -14z" />
+    <path android:strokeColor="#FFF2F2F5" android:strokeWidth="3" android:strokeLineCap="round" android:pathData="M48,30h28" />
+    <path android:strokeColor="#FF9A9AA2" android:strokeWidth="2" android:strokeLineCap="round"
+        android:pathData="M48,40h20M160,24h12M190,24h12M220,24h12M160,40h12M190,40h12M220,40h12" />
+    <path android:fillColor="#FF2F6CB0" android:pathData="M120,96h6v-8h-6zM132,96h6v-14h-6zM144,96h6v-10h-6zM156,96h6v-5h-6z" />
+    <path android:fillColor="#998A1028" android:pathData="M14,80C40,64 60,62 86,70C112,78 140,88 170,76C200,64 220,62 236,66V96H14Z" />
+    <path android:strokeColor="#FFE0203F" android:strokeWidth="2.2" android:strokeLineCap="round"
+        android:pathData="M14,80C40,64 60,62 86,70C112,78 140,88 170,76C200,64 220,62 236,66" />
+    <path android:fillColor="#FFFF4A63" android:pathData="M14,80m-3.5,0a3.5,3.5 0,1 0,7 0a3.5,3.5 0,1 0,-7 0" />
+</vector>

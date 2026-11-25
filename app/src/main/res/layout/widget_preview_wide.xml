@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Scalable picker preview (Android 12+). Static sample reading. -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical" android:background="@drawable/widget_glass"
+    android:paddingStart="14dp" android:paddingEnd="14dp" android:paddingTop="10dp" android:paddingBottom="8dp">
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="Dhaka" android:textColor="#9A9AA2" android:textSize="12sp" android:fontFamily="sans-serif-medium" />
+    <LinearLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"
+        android:orientation="horizontal" android:gravity="center_vertical">
+        <TextView android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1"
+            android:text="20°  Clear" android:textColor="#F2F2F5" android:textSize="26sp" android:fontFamily="sans-serif-light" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="Wed 27°   Thu 28°   Fri 27°" android:textColor="#9A9AA2" android:textSize="11sp" />
+    </LinearLayout>
+    <ImageView android:layout_width="match_parent" android:layout_height="40dp"
+        android:scaleType="fitXY" android:src="@drawable/widget_preview_curve" android:contentDescription="@null" />
+</LinearLayout>

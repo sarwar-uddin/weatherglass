@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_small_label">Weatherglass: now</string>
+    <string name="widget_small_description">Temperature, sky, today\'s high and low, and the air quality for your selected place.</string>
+    <string name="widget_wide_label">Weatherglass: next 12 hours</string>
+    <string name="widget_wide_description">The reading now, a 12-hour temperature and rain meteogram, and the next three days.</string>
+    <string name="share_chooser">Share the reading</string>
+    <string name="share_nothing">Nothing to share yet</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Picker preview for pre-Android 12 launchers: glass tile, crescent moon, crimson needle line. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="110dp" android:height="110dp" android:viewportWidth="110" android:viewportHeight="110">
+    <path android:fillColor="#F2131316" android:strokeColor="#33FFFFFF" android:strokeWidth="1"
+        android:pathData="M22,0.5h66a21.5,21.5 0,0 1,21.5 21.5v66a21.5,21.5 0,0 1,-21.5 21.5h-66a21.5,21.5 0,0 1,-21.5 -21.5v-66a21.5,21.5 0,0 1,21.5 -21.5z" />
+    <path android:fillColor="#FFDCDCE6"
+        android:pathData="M74,30a14,14 0,1 0,14 18a11,11 0,1 1,-14 -18z" />
+    <path android:strokeColor="#FFF2F2F5" android:strokeWidth="3" android:strokeLineCap="round"
+        android:pathData="M16,52h22M16,62h30" android:strokeAlpha="0.85" />
+    <path android:strokeColor="#FF9A9AA2" android:strokeWidth="2" android:strokeLineCap="round"
+        android:pathData="M16,80h40M16,90h26" />
+    <path android:fillColor="#FFE0203F" android:pathData="M90,18m-4,0a4,4 0,1 0,8 0a4,4 0,1 0,-8 0" />
+</vector>
